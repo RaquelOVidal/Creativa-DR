@@ -1,0 +1,20 @@
+div#container{width: 1440px; margin: 0 auto;}
+header {text-align: center;
+        color: #FFFFFF;
+        height: 300px;
+        font-family: 'League Spartan', sans-serif;
+        padding: 50px 0px 90px 0px;}
+body {margin: 0;
+        padding: 0;}
+header h1 {font-size: 128px; margin-bottom: -10px;}
+header h2 {font-size: 50px;}
+article{background-color: #ffffff; color:#000000; 
+        font-family: 'League Spartan', sans-serif;
+        padding: 70px 0px 70px 0px;
+        height: 500px;
+        font-size: 40px;}
+article ul {padding: 0px 50px 0px 50px; line-height: 1.2;}
+article img {float: left; margin-right: 100px; margin-left: 20px}
+footer {width: 1440px; margin: 0 auto; margin-top: 100px; padding: 10px 0px 30px 0px;}
+footer img {margin-left: 50px; width:}
+div#video {width: 1440px; margin: 0 auto;}
